@@ -1,0 +1,35 @@
+body{
+    font-family: sans-serif;
+    background-color: #F8F8FF;
+    color: black;
+    font-size: 1.0em;
+}
+h1{
+    color: brown;
+}
+
+h2{
+    color: green;
+}
+
+.underline{
+    text-decoration: underline;
+}
+
+#type-of-selectors{
+    color: black;
+}
+.bold{
+    font-weight: bold;
+    font-size: 1.0em;
+}
+#frame{
+    background: lavender;
+}
+
+#colon{
+    background: lavender;
+}
+#semicolon{
+    background: lavender;
+}
